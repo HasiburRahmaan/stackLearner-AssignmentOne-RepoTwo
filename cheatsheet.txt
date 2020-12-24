@@ -1,1 +1,20 @@
-$null 
+============================================
+-------------------Git----------------------
+============================================
+
+1. git rm --cached <file>   - Unstage a file commit 
+2. git  checkout  <commit id> -  go back into a particular commit 
+3. git  checkout master  - back into master branch/ latest commit
+ 
+
+
+============================================
+-------------------Cmd----------------------
+============================================
+
+1. Pwd  - present working directory
+2. Mkdir - make directory/folder
+3. Echo > <filename.ext>  - create new file
+4. cat  <file>  - show file content 
+5. ls  -  list of files and folder in current directory
+6. rm  <file>  - remove file 
